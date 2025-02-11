@@ -1,3 +1,2 @@
 # SQL Guide
 
-Coming soon...
