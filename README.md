@@ -15,5 +15,3 @@ This README provides an introduction to SQL and its importance in managing and q
 ## Additional Resources
 - [SQL Cheat Sheet](SQL/SQL-Cheat-Sheet-PDF.pdf): A handy reference for SQL commands and syntax.
 
-## Conclusion
-Practice SQL using the provided scripts to enhance your understanding and skills in database management.
